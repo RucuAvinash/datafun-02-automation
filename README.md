@@ -5,7 +5,7 @@ This repository provides a clear, concise guide to help set up a machine for Pyt
 
 The instructions are divided into three parts.
 
-Part 1: Set Up Machine & Sign up for GitHub
+Part 1: Set Up Machine & Sign up for GitHub #comment forgit pull
 Go to 🟢 Machine Setup to prepare for Python projects. Start here to set up a machine for the first time (or to upgrade or verify professional tools).
 
 This section contains one-time tasks including:
