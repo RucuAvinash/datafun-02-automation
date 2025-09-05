@@ -1,34 +1,35 @@
 # datafun-02-automation
-02-Project Initialization
- Setup and Workflow Guide
-This repository provides a clear, concise guide to help set up a machine for Python projects, initialize a new Python project, and follow a repeatable project workflow when developing professional Python projects.
+Step 1. Add Your Module 1 utils file to your Project Folder
+View your module 1 repo in GitHub (datafun-01-utils). Click on your Python file and download it into your project folder. (Or add a new empty file in VS Code and paste in the contents.) However you want to get a copy into this current project is fine. This is a useful change so be sure to make sure the Python still runs and do git add-commit-push. See pro-analytics-01Links to an external site. when you need reminders, or better yet, use the notes you put in your README file from Module 1 (it will be a good starting point for your P2 README). 
 
-The instructions are divided into three parts.
+Step 2. Add a new Python File 
+In VS Code, add a new Python file named yourname_project_setup.py. This is where we will do most of our work.
 
-Part 1: Set Up Machine & Sign up for GitHub
-Go to 🟢 Machine Setup to prepare for Python projects. Start here to set up a machine for the first time (or to upgrade or verify professional tools).
+Choose one option - either copy and paste from the example file at https://github.com/denisecase/datafun-02-project-setup/blob/main/case_project_setup.pyLinks to an external site.
 
-This section contains one-time tasks including:
+Or just start your own, as you like, and build it as you work through the example Python file provided. 
 
-View file extensions and hidden files and folders.
-Optional: Install (or verify) a package manager for your operating system.
-Install Python, Git, and Visual Studio (VS) Code for your operating system.
-Configure Git
-Install common VS Code extensions.
-Create a folder on your machine to hold your GitHub projects.
-Create a GitHub account (join 100 Million Developers!)
-Part 2: Initialize a Project
-Go to 🟠 Project Initialization when starting a new project.
+Step 3. Plan/Organize your Script with Comments
+Use comments to plan the code in your new Python file. The organization is similar to the utils module we built in Module 1. If you start with the example, some of this may have been done. Adjust as you like - this is your project. 
 
-This section walks you through the steps to either:
+Step 4. Implement Your Script
+As you work through Chapter 3 and 4 and the skill drills, implement the suggested functions, using various repetition and branching logic. Use the provided main() method (or something similar) to call your functions by providing good arguments. Include the conditional execution logic at the end we learned in Project 1, so your main() function will only be called when you execute this new script directly. 
 
-Copy an existing project OR start a new project from scratch.
-Clone your new GitHub repo to your machine.
-Add common files such as .gitignore and requirements.txt.
-Git add-commit-push the changes to GitHub.
-Create a local project virtual environment for Python.
-Part 3: Work on the Project Over Time
-Go to 🔵 Repeatable Workflow for ongoing project development.
+Important:
+
+The goal is to practice a variety of Python features, so using specific techniques like list comprehensions are REQUIRED for certain functions.
+Follow the instructions.
+We will not teach these fundamentals in any other course.
+Use this project and these automation functions to master these key skills.
+Use the skill drills/GUIDES and follow the provided examples.
+Do not just give your assignment to an AI and paste their code. AI is widely available already and much cheaper than analysts expect to be compensated.
+We can and should know how to use them, but do not let them replace you (if they can, they will). Instead, use them to LEARN so that YOU can be more productive with your time. Know what we can do with Python and when techniques are appropriate. Follow the code organization recommended - trust me. AI will do what we ask, but if you want a well-organized, useful, extensible project, it takes some back-and-forth. 
+After adding a new function, remember to make sure the Python still runs, and if so, git add-commit-push to GitHub. 
+
+Step 5: Update Your README.md
+Update your README.md to describe your project. Edit the README.md file and paste content from the example file. Do this at the end - or as you work on the project to keep your notes. As always, finish with git add-commit-push. 
+
+
 
 This section provides the repeatable steps for working on Python projects. These steps are typically followed whenever we make changes to a project. The workflow includes:
 
