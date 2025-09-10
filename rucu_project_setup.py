@@ -40,7 +40,8 @@ logger.info("Logger Loaded.")
 # DECLARE GLOBAL VARIABLES
 #############################
 
-base_path = 'C:/Users/rucma/OneDrive/Desktop'
+base_path = pathlib.Path.cwd()
+logger.info(f"Current working directory is: {base_path}")
 path = pathlib.Path(base_path)
 
 ################################
@@ -107,10 +108,8 @@ def create_periodic_folder(duration: int)  -> None:
         #%M: MINUTE
         #%S: SECOND
         #%Z: TIMEZONE NAME
-
         human_readable_time = utc_time.strftime("%Y-%m-%d-%H-%M-%S-%Z")
         folder_name = f"periodic - {human_readable_time}-{counter}"
-
         new_folder_path = path/folder_name
         new_folder_path.mkdir(exist_ok=True)
         logger.info(f" Created folder with {folder_name}")

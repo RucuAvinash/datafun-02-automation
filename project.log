@@ -473,3 +473,341 @@ Standard Deviation of Satisfaction Scores: 0.16
 2025-09-05 11:30:45.257 | INFO     | __main__:create_folder_if_palindrome:65 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
 2025-09-05 11:30:45.257 | INFO     | __main__:create_folder_if_palindrome:68 - Palindrome folder'C:\Users\rucma\OneDrive\Desktop\MADAM' created successfully.
 2025-09-05 11:30:45.257 | INFO     | __main__:create_folder_if_palindrome:68 - Palindrome folder'C:\Users\rucma\OneDrive\Desktop\MADAM' created successfully.
+2025-09-05 12:40:37.060 | INFO     | utils_rucu_1:<module>:38 - Module loaded.
+2025-09-05 12:40:37.064 | INFO     | __main__:<module>:36 - Logger Loaded.
+2025-09-05 12:40:37.065 | INFO     | __main__:create_folder:55 - Folder'C:\Users\rucma\OneDrive\Desktop\Rucu_new_folder' created successfully.
+2025-09-05 12:40:37.065 | INFO     | __main__:create_even_folder:73 - Folder not created as 1 is an odd number
+2025-09-05 12:40:37.065 | INFO     | __main__:create_even_folder:71 - FolderC:\Users\rucma\OneDrive\Desktop\2created successfully
+2025-09-05 12:40:37.066 | INFO     | __main__:create_even_folder:73 - Folder not created as 3 is an odd number
+2025-09-05 12:40:37.066 | INFO     | __main__:create_even_folder:71 - FolderC:\Users\rucma\OneDrive\Desktop\4created successfully
+2025-09-05 12:40:37.066 | INFO     | __main__:create_folder_if_palindrome:84 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
+2025-09-05 12:40:37.067 | INFO     | __main__:create_folder_if_palindrome:87 - Palindrome folder'C:\Users\rucma\OneDrive\Desktop\MOM' created successfully.
+2025-09-05 12:40:37.067 | INFO     | __main__:create_folder_if_palindrome:89 - 'Rucu is not a Palindrome.Skipping.
+2025-09-05 12:40:37.068 | INFO     | __main__:create_folder_if_palindrome:84 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
+2025-09-05 12:40:37.068 | INFO     | __main__:create_folder_if_palindrome:87 - Palindrome folder'C:\Users\rucma\OneDrive\Desktop\MADAM' created successfully.
+2025-09-05 12:40:37.069 | INFO     | __main__:create_periodic_folder:116 -  Created folder with periodic - 2025-09-05-17-40-37-UTC-0
+2025-09-05 12:40:37.069 | INFO     | __main__:create_periodic_folder:121 - Sleeping 3 seconds before next folder...
+2025-09-05 12:40:40.070 | INFO     | __main__:create_periodic_folder:116 -  Created folder with periodic - 2025-09-05-17-40-40-UTC-1
+2025-09-05 12:40:40.071 | INFO     | __main__:create_periodic_folder:121 - Sleeping 3 seconds before next folder...
+2025-09-05 12:40:43.072 | INFO     | __main__:create_periodic_folder:116 -  Created folder with periodic - 2025-09-05-17-40-43-UTC-2
+2025-09-05 12:40:43.073 | INFO     | __main__:create_periodic_folder:121 - Sleeping 3 seconds before next folder...
+2025-09-05 12:40:46.074 | INFO     | __main__:create_periodic_folder:116 -  Created folder with periodic - 2025-09-05-17-40-46-UTC-3
+2025-09-05 12:40:46.075 | INFO     | __main__:create_periodic_folder:121 - Sleeping 3 seconds before next folder...
+2025-09-05 12:40:49.076 | INFO     | __main__:create_periodic_folder:116 -  Created folder with periodic - 2025-09-05-17-40-49-UTC-4
+2025-09-05 12:40:49.077 | INFO     | __main__:main:130 - ########################################
+2025-09-05 12:40:49.078 | INFO     | __main__:main:131 - #Starting execution of main
+2025-09-05 12:40:49.078 | INFO     | __main__:main:132 - ##########################################
+2025-09-05 12:40:49.079 | INFO     | __main__:main:133 - Byline: 
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         10
+Skills Offered:             ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score: 4.80
+Standard Deviation of Satisfaction Scores: 0.16
+
+2025-09-05 12:54:32.498 | INFO     | utils_rucu_1:<module>:38 - Module loaded.
+2025-09-05 12:54:32.501 | INFO     | __main__:<module>:36 - Logger Loaded.
+2025-09-05 12:54:32.502 | INFO     | __main__:create_folder:55 - Folder'C:\Users\rucma\OneDrive\Desktop\Rucu_new_folder' created successfully.
+2025-09-05 12:54:32.502 | INFO     | __main__:create_even_folder:73 - Folder not created as 1 is an odd number
+2025-09-05 12:54:32.502 | INFO     | __main__:create_even_folder:71 - FolderC:\Users\rucma\OneDrive\Desktop\2created successfully
+2025-09-05 12:54:32.503 | INFO     | __main__:create_even_folder:73 - Folder not created as 3 is an odd number
+2025-09-05 12:54:32.503 | INFO     | __main__:create_even_folder:71 - FolderC:\Users\rucma\OneDrive\Desktop\4created successfully
+2025-09-05 12:54:32.503 | INFO     | __main__:create_folder_if_palindrome:84 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
+2025-09-05 12:54:32.504 | INFO     | __main__:create_folder_if_palindrome:87 - Palindrome folder'C:\Users\rucma\OneDrive\Desktop\MOM' created successfully.
+2025-09-05 12:54:32.504 | INFO     | __main__:create_folder_if_palindrome:89 - 'Rucu is not a Palindrome.Skipping.
+2025-09-05 12:54:32.504 | INFO     | __main__:create_folder_if_palindrome:84 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
+2025-09-05 12:54:32.504 | INFO     | __main__:create_folder_if_palindrome:87 - Palindrome folder'C:\Users\rucma\OneDrive\Desktop\MADAM' created successfully.
+2025-09-05 12:54:32.505 | INFO     | __main__:create_periodic_folder:114 -  Created folder with periodic - 2025-09-05-17-54-32-UTC-0
+2025-09-05 12:54:32.505 | INFO     | __main__:create_periodic_folder:119 - Sleeping 3 seconds before next folder...
+2025-09-05 12:54:35.506 | INFO     | __main__:create_periodic_folder:114 -  Created folder with periodic - 2025-09-05-17-54-35-UTC-1
+2025-09-05 12:54:35.506 | INFO     | __main__:create_periodic_folder:119 - Sleeping 3 seconds before next folder...
+2025-09-05 12:54:38.509 | INFO     | __main__:create_periodic_folder:114 -  Created folder with periodic - 2025-09-05-17-54-38-UTC-2
+2025-09-05 12:54:38.509 | INFO     | __main__:create_periodic_folder:119 - Sleeping 3 seconds before next folder...
+2025-09-05 12:54:41.511 | INFO     | __main__:create_periodic_folder:114 -  Created folder with periodic - 2025-09-05-17-54-41-UTC-3
+2025-09-05 12:54:41.512 | INFO     | __main__:create_periodic_folder:119 - Sleeping 3 seconds before next folder...
+2025-09-05 12:54:44.514 | INFO     | __main__:create_periodic_folder:114 -  Created folder with periodic - 2025-09-05-17-54-44-UTC-4
+2025-09-05 12:54:44.515 | INFO     | __main__:main:128 - ########################################
+2025-09-05 12:54:44.516 | INFO     | __main__:main:129 - #Starting execution of main
+2025-09-05 12:54:44.517 | INFO     | __main__:main:130 - ##########################################
+2025-09-05 12:54:44.519 | INFO     | __main__:main:131 - Byline: 
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         10
+Skills Offered:             ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score: 4.80
+Standard Deviation of Satisfaction Scores: 0.16
+
+2025-09-10 09:24:16.003 | INFO     | utils_rucu_1:<module>:38 - Module loaded.
+2025-09-10 09:24:16.005 | INFO     | __main__:<module>:36 - Logger Loaded.
+2025-09-10 09:24:16.006 | INFO     | __main__:create_folder:55 - Folder'C:\Repos\datafun-02-automation\Rucu_new_folder' created successfully.
+2025-09-10 09:24:16.006 | INFO     | __main__:create_even_folder:73 - Folder not created as 1 is an odd number
+2025-09-10 09:24:16.006 | INFO     | __main__:create_even_folder:71 - FolderC:\Repos\datafun-02-automation\2created successfully
+2025-09-10 09:24:16.006 | INFO     | __main__:create_even_folder:73 - Folder not created as 3 is an odd number
+2025-09-10 09:24:16.007 | INFO     | __main__:create_even_folder:71 - FolderC:\Repos\datafun-02-automation\4created successfully
+2025-09-10 09:24:16.007 | INFO     | __main__:create_folder_if_palindrome:84 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
+2025-09-10 09:24:16.007 | INFO     | __main__:create_folder_if_palindrome:87 - Palindrome folder'C:\Repos\datafun-02-automation\MOM' created successfully.
+2025-09-10 09:24:16.007 | INFO     | __main__:create_folder_if_palindrome:89 - 'Rucu is not a Palindrome.Skipping.
+2025-09-10 09:24:16.007 | INFO     | __main__:create_folder_if_palindrome:84 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
+2025-09-10 09:24:16.008 | INFO     | __main__:create_folder_if_palindrome:87 - Palindrome folder'C:\Repos\datafun-02-automation\MADAM' created successfully.
+2025-09-10 09:24:16.008 | INFO     | __main__:create_periodic_folder:114 -  Created folder with periodic - 2025-09-10-14-24-16-UTC-0
+2025-09-10 09:24:16.011 | INFO     | __main__:create_periodic_folder:119 - Sleeping 3 seconds before next folder...
+2025-09-10 09:24:19.014 | INFO     | __main__:create_periodic_folder:114 -  Created folder with periodic - 2025-09-10-14-24-19-UTC-1
+2025-09-10 09:24:19.016 | INFO     | __main__:create_periodic_folder:119 - Sleeping 3 seconds before next folder...
+2025-09-10 09:24:22.020 | INFO     | __main__:create_periodic_folder:114 -  Created folder with periodic - 2025-09-10-14-24-22-UTC-2
+2025-09-10 09:24:22.021 | INFO     | __main__:create_periodic_folder:119 - Sleeping 3 seconds before next folder...
+2025-09-10 09:24:25.023 | INFO     | __main__:create_periodic_folder:114 -  Created folder with periodic - 2025-09-10-14-24-25-UTC-3
+2025-09-10 09:24:25.024 | INFO     | __main__:create_periodic_folder:119 - Sleeping 3 seconds before next folder...
+2025-09-10 09:24:28.026 | INFO     | __main__:create_periodic_folder:114 -  Created folder with periodic - 2025-09-10-14-24-28-UTC-4
+2025-09-10 09:24:28.026 | INFO     | __main__:main:128 - ########################################
+2025-09-10 09:24:28.027 | INFO     | __main__:main:129 - #Starting execution of main
+2025-09-10 09:24:28.027 | INFO     | __main__:main:130 - ##########################################
+2025-09-10 09:24:28.028 | INFO     | __main__:main:131 - Byline: 
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         10
+Skills Offered:             ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score: 4.80
+Standard Deviation of Satisfaction Scores: 0.16
+
+2025-09-10 09:27:18.589 | INFO     | utils_rucu_1:<module>:38 - Module loaded.
+2025-09-10 09:27:18.593 | INFO     | __main__:<module>:36 - Logger Loaded.
+2025-09-10 09:27:18.594 | INFO     | __main__:create_folder:55 - Folder'C:\Repos\datafun-02-automation\Rucu_new_folder' created successfully.
+2025-09-10 09:27:18.594 | INFO     | __main__:create_even_folder:73 - Folder not created as 1 is an odd number
+2025-09-10 09:27:18.594 | INFO     | __main__:create_even_folder:71 - FolderC:\Repos\datafun-02-automation\2created successfully
+2025-09-10 09:27:18.594 | INFO     | __main__:create_even_folder:73 - Folder not created as 3 is an odd number
+2025-09-10 09:27:18.594 | INFO     | __main__:create_even_folder:71 - FolderC:\Repos\datafun-02-automation\4created successfully
+2025-09-10 09:27:18.595 | INFO     | __main__:create_folder_if_palindrome:84 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
+2025-09-10 09:27:18.595 | INFO     | __main__:create_folder_if_palindrome:87 - Palindrome folder'C:\Repos\datafun-02-automation\MOM' created successfully.
+2025-09-10 09:27:18.595 | INFO     | __main__:create_folder_if_palindrome:89 - 'Rucu is not a Palindrome.Skipping.
+2025-09-10 09:27:18.596 | INFO     | __main__:create_folder_if_palindrome:84 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
+2025-09-10 09:27:18.596 | INFO     | __main__:create_folder_if_palindrome:87 - Palindrome folder'C:\Repos\datafun-02-automation\MADAM' created successfully.
+2025-09-10 09:27:18.599 | INFO     | __main__:create_periodic_folder:114 -  Created folder with periodic - 2025-09-10-14-27-18-UTC-0
+2025-09-10 09:27:18.599 | INFO     | __main__:create_periodic_folder:119 - Sleeping 3 seconds before next folder...
+2025-09-10 09:27:21.602 | INFO     | __main__:create_periodic_folder:114 -  Created folder with periodic - 2025-09-10-14-27-21-UTC-1
+2025-09-10 09:27:21.602 | INFO     | __main__:create_periodic_folder:119 - Sleeping 3 seconds before next folder...
+2025-09-10 09:27:24.606 | INFO     | __main__:create_periodic_folder:114 -  Created folder with periodic - 2025-09-10-14-27-24-UTC-2
+2025-09-10 09:27:24.607 | INFO     | __main__:create_periodic_folder:119 - Sleeping 3 seconds before next folder...
+2025-09-10 09:27:27.611 | INFO     | __main__:create_periodic_folder:114 -  Created folder with periodic - 2025-09-10-14-27-27-UTC-3
+2025-09-10 09:27:27.612 | INFO     | __main__:create_periodic_folder:119 - Sleeping 3 seconds before next folder...
+2025-09-10 09:27:30.613 | INFO     | __main__:create_periodic_folder:114 -  Created folder with periodic - 2025-09-10-14-27-30-UTC-4
+2025-09-10 09:27:30.614 | INFO     | __main__:main:128 - ########################################
+2025-09-10 09:27:30.615 | INFO     | __main__:main:129 - #Starting execution of main
+2025-09-10 09:27:30.615 | INFO     | __main__:main:130 - ##########################################
+2025-09-10 09:27:30.616 | INFO     | __main__:main:131 - Byline: 
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         10
+Skills Offered:             ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score: 4.80
+Standard Deviation of Satisfaction Scores: 0.16
+
+2025-09-10 09:29:34.018 | INFO     | utils_rucu_1:<module>:38 - Module loaded.
+2025-09-10 09:29:34.021 | INFO     | __main__:<module>:36 - Logger Loaded.
+2025-09-10 09:29:34.021 | INFO     | __main__:<module>:44 - Current working directory is: C:\Repos\datafun-02-automation
+2025-09-10 09:29:34.022 | INFO     | __main__:create_folder:56 - Folder'C:\Repos\datafun-02-automation\Rucu_new_folder' created successfully.
+2025-09-10 09:29:34.022 | INFO     | __main__:create_even_folder:74 - Folder not created as 1 is an odd number
+2025-09-10 09:29:34.022 | INFO     | __main__:create_even_folder:72 - FolderC:\Repos\datafun-02-automation\2created successfully
+2025-09-10 09:29:34.023 | INFO     | __main__:create_even_folder:74 - Folder not created as 3 is an odd number
+2025-09-10 09:29:34.023 | INFO     | __main__:create_even_folder:72 - FolderC:\Repos\datafun-02-automation\4created successfully
+2025-09-10 09:29:34.023 | INFO     | __main__:create_folder_if_palindrome:85 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
+2025-09-10 09:29:34.024 | INFO     | __main__:create_folder_if_palindrome:88 - Palindrome folder'C:\Repos\datafun-02-automation\MOM' created successfully.
+2025-09-10 09:29:34.024 | INFO     | __main__:create_folder_if_palindrome:90 - 'Rucu is not a Palindrome.Skipping.
+2025-09-10 09:29:34.024 | INFO     | __main__:create_folder_if_palindrome:85 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
+2025-09-10 09:29:34.024 | INFO     | __main__:create_folder_if_palindrome:88 - Palindrome folder'C:\Repos\datafun-02-automation\MADAM' created successfully.
+2025-09-10 09:29:34.025 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-29-34-UTC-0
+2025-09-10 09:29:34.025 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:29:37.028 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-29-37-UTC-1
+2025-09-10 09:29:37.029 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:29:40.033 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-29-40-UTC-2
+2025-09-10 09:29:40.033 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:29:43.037 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-29-43-UTC-3
+2025-09-10 09:29:43.038 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:29:46.039 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-29-46-UTC-4
+2025-09-10 09:29:46.040 | INFO     | __main__:main:129 - ########################################
+2025-09-10 09:29:46.040 | INFO     | __main__:main:130 - #Starting execution of main
+2025-09-10 09:29:46.040 | INFO     | __main__:main:131 - ##########################################
+2025-09-10 09:29:46.041 | INFO     | __main__:main:132 - Byline: 
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         10
+Skills Offered:             ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score: 4.80
+Standard Deviation of Satisfaction Scores: 0.16
+
+2025-09-10 09:53:49.873 | INFO     | utils_rucu_1:<module>:38 - Module loaded.
+2025-09-10 09:53:49.876 | INFO     | __main__:<module>:36 - Logger Loaded.
+2025-09-10 09:53:49.877 | INFO     | __main__:<module>:44 - Current working directory is: C:\Repos\datafun-02-automation
+2025-09-10 09:53:49.877 | INFO     | __main__:create_folder:56 - Folder'C:\Repos\datafun-02-automation\Rucu_new_folder' created successfully.
+2025-09-10 09:53:49.878 | INFO     | __main__:create_even_folder:74 - Folder not created as 1 is an odd number
+2025-09-10 09:53:49.878 | INFO     | __main__:create_even_folder:72 - FolderC:\Repos\datafun-02-automation\2created successfully
+2025-09-10 09:53:49.878 | INFO     | __main__:create_even_folder:74 - Folder not created as 3 is an odd number
+2025-09-10 09:53:49.878 | INFO     | __main__:create_even_folder:72 - FolderC:\Repos\datafun-02-automation\4created successfully
+2025-09-10 09:53:49.879 | INFO     | __main__:create_folder_if_palindrome:85 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
+2025-09-10 09:53:49.879 | INFO     | __main__:create_folder_if_palindrome:88 - Palindrome folder'C:\Repos\datafun-02-automation\MOM' created successfully.
+2025-09-10 09:53:49.879 | INFO     | __main__:create_folder_if_palindrome:90 - 'Rucu is not a Palindrome.Skipping.
+2025-09-10 09:53:49.880 | INFO     | __main__:create_folder_if_palindrome:85 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
+2025-09-10 09:53:49.880 | INFO     | __main__:create_folder_if_palindrome:88 - Palindrome folder'C:\Repos\datafun-02-automation\MADAM' created successfully.
+2025-09-10 09:53:49.881 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-53-49-UTC-0
+2025-09-10 09:53:49.881 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:53:52.883 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-53-52-UTC-1
+2025-09-10 09:53:52.883 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:53:55.885 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-53-55-UTC-2
+2025-09-10 09:53:55.885 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:53:58.887 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-53-58-UTC-3
+2025-09-10 09:53:58.887 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:54:01.889 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-54-01-UTC-4
+2025-09-10 09:54:01.891 | INFO     | __main__:main:129 - ########################################
+2025-09-10 09:54:01.891 | INFO     | __main__:main:130 - #Starting execution of main
+2025-09-10 09:54:01.892 | INFO     | __main__:main:131 - ##########################################
+2025-09-10 09:54:01.893 | INFO     | __main__:main:132 - Byline: 
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         10
+Skills Offered:             ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score: 4.80
+Standard Deviation of Satisfaction Scores: 0.16
+
+2025-09-10 09:55:11.882 | INFO     | utils_rucu_1:<module>:38 - Module loaded.
+2025-09-10 09:55:11.885 | INFO     | __main__:<module>:36 - Logger Loaded.
+2025-09-10 09:55:11.885 | INFO     | __main__:<module>:44 - Current working directory is: C:\Repos\datafun-02-automation
+2025-09-10 09:55:11.886 | INFO     | __main__:create_folder:56 - Folder'C:\Repos\datafun-02-automation\Rucu_new_folder' created successfully.
+2025-09-10 09:55:11.886 | INFO     | __main__:create_even_folder:74 - Folder not created as 1 is an odd number
+2025-09-10 09:55:11.887 | INFO     | __main__:create_even_folder:72 - FolderC:\Repos\datafun-02-automation\2created successfully
+2025-09-10 09:55:11.887 | INFO     | __main__:create_even_folder:74 - Folder not created as 3 is an odd number
+2025-09-10 09:55:11.888 | INFO     | __main__:create_even_folder:72 - FolderC:\Repos\datafun-02-automation\4created successfully
+2025-09-10 09:55:11.888 | INFO     | __main__:create_folder_if_palindrome:85 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
+2025-09-10 09:55:11.888 | INFO     | __main__:create_folder_if_palindrome:88 - Palindrome folder'C:\Repos\datafun-02-automation\MOM' created successfully.
+2025-09-10 09:55:11.889 | INFO     | __main__:create_folder_if_palindrome:90 - 'Rucu is not a Palindrome.Skipping.
+2025-09-10 09:55:11.889 | INFO     | __main__:create_folder_if_palindrome:85 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
+2025-09-10 09:55:11.889 | INFO     | __main__:create_folder_if_palindrome:88 - Palindrome folder'C:\Repos\datafun-02-automation\MADAM' created successfully.
+2025-09-10 09:55:11.890 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-55-11-UTC-0
+2025-09-10 09:55:11.890 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:55:14.892 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-55-14-UTC-1
+2025-09-10 09:55:14.892 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:55:17.895 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-55-17-UTC-2
+2025-09-10 09:55:17.895 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:55:20.898 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-55-20-UTC-3
+2025-09-10 09:55:20.899 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:55:23.901 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-55-23-UTC-4
+2025-09-10 09:55:23.903 | INFO     | __main__:main:129 - ########################################
+2025-09-10 09:55:23.903 | INFO     | __main__:main:130 - #Starting execution of main
+2025-09-10 09:55:23.904 | INFO     | __main__:main:131 - ##########################################
+2025-09-10 09:55:23.907 | INFO     | __main__:main:132 - Byline: 
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         10
+Skills Offered:             ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score: 4.80
+Standard Deviation of Satisfaction Scores: 0.16
+
+2025-09-10 09:55:32.816 | INFO     | utils_rucu_1:<module>:38 - Module loaded.
+2025-09-10 09:55:32.819 | INFO     | __main__:<module>:36 - Logger Loaded.
+2025-09-10 09:55:32.819 | INFO     | __main__:<module>:44 - Current working directory is: C:\Repos\datafun-02-automation
+2025-09-10 09:55:32.820 | INFO     | __main__:create_folder:56 - Folder'C:\Repos\datafun-02-automation\Rucu_new_folder' created successfully.
+2025-09-10 09:55:32.820 | INFO     | __main__:create_even_folder:74 - Folder not created as 1 is an odd number
+2025-09-10 09:55:32.820 | INFO     | __main__:create_even_folder:72 - FolderC:\Repos\datafun-02-automation\2created successfully
+2025-09-10 09:55:32.821 | INFO     | __main__:create_even_folder:74 - Folder not created as 3 is an odd number
+2025-09-10 09:55:32.821 | INFO     | __main__:create_even_folder:72 - FolderC:\Repos\datafun-02-automation\4created successfully
+2025-09-10 09:55:32.821 | INFO     | __main__:create_folder_if_palindrome:85 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
+2025-09-10 09:55:32.822 | INFO     | __main__:create_folder_if_palindrome:88 - Palindrome folder'C:\Repos\datafun-02-automation\MOM' created successfully.
+2025-09-10 09:55:32.822 | INFO     | __main__:create_folder_if_palindrome:90 - 'Rucu is not a Palindrome.Skipping.
+2025-09-10 09:55:32.823 | INFO     | __main__:create_folder_if_palindrome:85 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
+2025-09-10 09:55:32.823 | INFO     | __main__:create_folder_if_palindrome:88 - Palindrome folder'C:\Repos\datafun-02-automation\MADAM' created successfully.
+2025-09-10 09:55:32.824 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-55-32-UTC-0
+2025-09-10 09:55:32.824 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:55:35.827 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-55-35-UTC-1
+2025-09-10 09:55:35.828 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:55:38.830 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-55-38-UTC-2
+2025-09-10 09:55:38.832 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:55:41.834 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-55-41-UTC-3
+2025-09-10 09:55:41.835 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:55:44.837 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-55-44-UTC-4
+2025-09-10 09:55:44.838 | INFO     | __main__:main:129 - ########################################
+2025-09-10 09:55:44.839 | INFO     | __main__:main:130 - #Starting execution of main
+2025-09-10 09:55:44.840 | INFO     | __main__:main:131 - ##########################################
+2025-09-10 09:55:44.840 | INFO     | __main__:main:132 - Byline: 
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         10
+Skills Offered:             ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score: 4.80
+Standard Deviation of Satisfaction Scores: 0.16
+
+2025-09-10 09:56:41.876 | INFO     | utils_rucu_1:<module>:38 - Module loaded.
+2025-09-10 09:56:41.879 | INFO     | __main__:<module>:36 - Logger Loaded.
+2025-09-10 09:56:41.879 | INFO     | __main__:<module>:44 - Current working directory is: C:\Repos\datafun-02-automation
+2025-09-10 09:56:41.880 | INFO     | __main__:create_folder:56 - Folder'C:\Repos\datafun-02-automation\Rucu_new_folder' created successfully.
+2025-09-10 09:56:41.880 | INFO     | __main__:create_even_folder:74 - Folder not created as 1 is an odd number
+2025-09-10 09:56:41.881 | INFO     | __main__:create_even_folder:72 - FolderC:\Repos\datafun-02-automation\2created successfully
+2025-09-10 09:56:41.881 | INFO     | __main__:create_even_folder:74 - Folder not created as 3 is an odd number
+2025-09-10 09:56:41.881 | INFO     | __main__:create_even_folder:72 - FolderC:\Repos\datafun-02-automation\4created successfully
+2025-09-10 09:56:41.881 | INFO     | __main__:create_folder_if_palindrome:85 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
+2025-09-10 09:56:41.882 | INFO     | __main__:create_folder_if_palindrome:88 - Palindrome folder'C:\Repos\datafun-02-automation\MOM' created successfully.
+2025-09-10 09:56:41.882 | INFO     | __main__:create_folder_if_palindrome:90 - 'Rucu is not a Palindrome.Skipping.
+2025-09-10 09:56:41.883 | INFO     | __main__:create_folder_if_palindrome:85 - '['MOM', 'Rucu', 'MADAM']' is a palindrome.Creating folder.
+2025-09-10 09:56:41.883 | INFO     | __main__:create_folder_if_palindrome:88 - Palindrome folder'C:\Repos\datafun-02-automation\MADAM' created successfully.
+2025-09-10 09:56:41.884 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-56-41-UTC-0
+2025-09-10 09:56:41.884 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:56:44.886 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-56-44-UTC-1
+2025-09-10 09:56:44.887 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:56:47.891 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-56-47-UTC-2
+2025-09-10 09:56:47.892 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:56:50.894 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-56-50-UTC-3
+2025-09-10 09:56:50.895 | INFO     | __main__:create_periodic_folder:120 - Sleeping 3 seconds before next folder...
+2025-09-10 09:56:53.896 | INFO     | __main__:create_periodic_folder:115 -  Created folder with periodic - 2025-09-10-14-56-53-UTC-4
+2025-09-10 09:56:53.897 | INFO     | __main__:main:129 - ########################################
+2025-09-10 09:56:53.897 | INFO     | __main__:main:130 - #Starting execution of main
+2025-09-10 09:56:53.898 | INFO     | __main__:main:131 - ##########################################
+2025-09-10 09:56:53.898 | INFO     | __main__:main:132 - Byline: 
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         10
+Skills Offered:             ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score: 4.80
+Standard Deviation of Satisfaction Scores: 0.16
+
